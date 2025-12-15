@@ -14,3 +14,16 @@ A small Python command-line program that asks the user for their name, age, hobb
    ```bash
    git clone https://github.com/<your-username>/<repo-name>.git
    cd <repo-name>
+
+# Code Structure
+- `personal_intro.py` → main program
+- `requirements.txt` → dependencies (none required)
+- `screenshot.png` → program output screenshot
+- `README.md` → project documentation
+
+# What I Learned
+- How to use `input()` to collect user information
+- How to assign values to variables
+- How to format output using `print()` and f-strings
+- How to organize files and write documentation for a Python project
+
