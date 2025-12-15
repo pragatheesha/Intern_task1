@@ -1,3 +1,17 @@
+## 📂 Code Structure
+- `personal_intro.py` → main program
+- `requirements.txt` → dependencies (none required)
+- `screenshot.png` → program output screenshot
+- `README.md` → project documentation
+
+---
+
+## 🧠 What I Learned
+- How to use `input()` to collect user information
+- How to assign values to variables
+- How to format output using `print()` and f-strings
+- How to organize files and write documentation for a Python project
+
 print("Hello World")
 
 name = input("What is your name? ")
