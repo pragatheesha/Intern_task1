@@ -27,3 +27,14 @@ A small Python command-line program that asks the user for their name, age, hobb
 - How to format output using `print()` and f-strings
 - How to organize files and write documentation for a Python project
 
+# Testing Evidence
+Example test:
+| Input | Expected Output |
+| Name: Alex | Welcome message includes "Alex" |
+| Age: 21 | Output displays "21 years old" |
+| Hobby: Coding | Output includes "Coding" |
+
+# Visual Documentation
+See `screenshot.png` for the full program output.
+
+
